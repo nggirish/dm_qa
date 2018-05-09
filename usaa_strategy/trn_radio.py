@@ -5,6 +5,7 @@
 # MAGIC ##### Description: Outcome
 # MAGIC Author: Yifei Wang
 # MAGIC ###### Release History
+# MAGIC * 2018-05-09 Enhancing 101
 # MAGIC * 2018-05-09 Jira 101 - Inital version for QA
 # MAGIC * 2018-05-09 Initail version
 
