@@ -5,7 +5,8 @@
 # MAGIC ##### Description: Outcome
 # MAGIC Author: Yifei Wang
 # MAGIC ###### Release History
-# MAGIC * 2018-05-02 Fixed Jira issues 101
+# MAGIC * 2018-05-09 Add checksum
+# MAGIC * 2018-05-0 Fixed Jira issues 101
 # MAGIC * 2018-04-30 Release to QA
 # MAGIC * 2018-04-20 Implemented QA feedback
 # MAGIC * 2018-04-19 Peer review completed
