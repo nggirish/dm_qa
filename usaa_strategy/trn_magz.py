@@ -219,4 +219,8 @@ df_out = fill_gap(df_out.where('value is not null'),ts_start=from_date, ts_end=t
 
 # COMMAND ----------
 
+#checksum
+
+# COMMAND ----------
+
 write_output(df_out,out_file,dbutils)
